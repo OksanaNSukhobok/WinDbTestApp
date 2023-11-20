@@ -1,0 +1,10 @@
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\bin\Debug\WinDbTestApp.exe.config
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\bin\Debug\WinDbTestApp.exe
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\bin\Debug\WinDbTestApp.pdb
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.csproj.AssemblyReference.cache
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.Properties.Resources.resources
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.csproj.GenerateResource.cache
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.csproj.CoreCompileInputs.cache
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.exe
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.pdb
+C:\Work\C#\WinDbTestApp\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.FrmMain.resources
