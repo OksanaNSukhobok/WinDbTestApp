@@ -35,3 +35,5 @@ C:\Work\C#\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.csproj.CoreCompileIn
 C:\Work\C#\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.csproj.CopyComplete
 C:\Work\C#\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.exe
 C:\Work\C#\WinDbTestApp\WinDbTestApp\obj\Debug\WinDbTestApp.pdb
+C:\Work\C#\WinDbTestApp\WinDbTestApp\bin\Debug\System.Data.SQLite.dll
+C:\Work\C#\WinDbTestApp\WinDbTestApp\bin\Debug\System.Data.SQLite.xml
