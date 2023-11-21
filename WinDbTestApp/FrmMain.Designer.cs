@@ -47,7 +47,7 @@
             // BtnMsSql
             // 
             this.BtnMsSql.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BtnMsSql.Location = new System.Drawing.Point(13, 78);
+            this.BtnMsSql.Location = new System.Drawing.Point(13, 83);
             this.BtnMsSql.Name = "BtnMsSql";
             this.BtnMsSql.Size = new System.Drawing.Size(163, 46);
             this.BtnMsSql.TabIndex = 1;
@@ -58,7 +58,7 @@
             // BtnSqLite
             // 
             this.BtnSqLite.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BtnSqLite.Location = new System.Drawing.Point(13, 147);
+            this.BtnSqLite.Location = new System.Drawing.Point(12, 147);
             this.BtnSqLite.Name = "BtnSqLite";
             this.BtnSqLite.Size = new System.Drawing.Size(163, 46);
             this.BtnSqLite.TabIndex = 2;
